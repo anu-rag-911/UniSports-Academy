@@ -37,4 +37,4 @@ The goal of this project is to:
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
-   https://github.com/anu-rag-911/UniSports-Academy.git
+  https://github.com/anu-rag-911/UniSports-Academy.git
